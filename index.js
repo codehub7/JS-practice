@@ -7,3 +7,7 @@ console.log(typeof "H")
 
 let name = "Rezwan"
 console.log(`My Name is ${name}`)
+
+let age = prompt('How old are you?', 100);
+let isBoss = confirm("Are you the boss?");
+alert(isBoss)
