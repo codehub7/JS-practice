@@ -17,3 +17,4 @@
 #### 15. Function Expression
 #### 16. [Arrow Function](https://github.com/codehub7/JS-practice/blob/main/arrow-func.js)
 #### 16. [Objects](https://github.com/codehub7/JS-practice/blob/main/objects.js)
+#### 17. [Object Reference and Copying](https://github.com/codehub7/JS-practice/blob/main/object-ref.js)
