@@ -22,3 +22,4 @@
 #### 19. [Object Methods, "this" ](https://github.com/codehub7/JS-practice/blob/main/this.js)
 #### 20. [Constructor Operator, "new" ](https://github.com/codehub7/JS-practice/blob/main/new-op.js)
 #### 21. [Optional chaining '?' ](https://github.com/codehub7/JS-practice/blob/main/optional-chaining.js)
+#### 21. [Symbol ](https://github.com/codehub7/JS-practice/blob/main/symbol.js)
