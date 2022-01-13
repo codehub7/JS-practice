@@ -7,11 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <iframe src="framed.html" width='800' height='800' name='example'></iframe>
-    <script src="global.js"></script>
     <script>
-        let win = window.frames.example;
-        win.onload = ()=>win.postMessage('message sending to you', '*')
+        let data ;
+        window.addEventListener('message', (message)=>{
+            document.write(message.data)
+        });
     </script>
 </body>
 </html>
