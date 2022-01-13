@@ -26,7 +26,7 @@
 #### 23. [Object to primitive ](https://github.com/codehub7/JS-practice/blob/main/object-to-primitive.js)
 #### 24. [Rest parameters and spread syntax ](https://github.com/codehub7/JS-practice/blob/main/rest-param-spread.js)
 #### 25. [Variable Scope, closure ](https://github.com/codehub7/JS-practice/blob/main/closure.js)
-#### 26. [the old 'var'](https://github.com/codehub7/JS-practice/blob/main/)
+#### 26. [the old 'var'](https://github.com/codehub7/JS-practice/blob/main/old-var.js)
 #### 27. [global object](https://github.com/codehub7/JS-practice/blob/main/)
 #### 28. [Scheduling : setTimeout and setInterval ](https://github.com/codehub7/JS-practice/blob/main/)
 #### 29. [](https://github.com/codehub7/JS-practice/blob/main/)
