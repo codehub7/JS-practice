@@ -30,3 +30,5 @@
 #### 27. [global object](https://github.com/codehub7/JS-practice/blob/main/global.js)
 #### 28. [Scheduling : setTimeout and setInterval ](https://github.com/codehub7/JS-practice/blob/main/scheduling.js)
 #### 29. [Modules](https://github.com/codehub7/JS-practice/blob/main/modules)
+#### 30. [Promise](https://github.com/codehub7/JS-practice/blob/main/promise)
+#### 31. [Async-await](https://github.com/codehub7/JS-practice/blob/main/promise/async-await.js)
