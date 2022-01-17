@@ -33,3 +33,4 @@
 #### 30. [Promise](https://github.com/codehub7/JS-practice/blob/main/promise)
 #### 31. [Async-await](https://github.com/codehub7/JS-practice/blob/main/promise/async-await.js)
 #### 32. [Debouncing](https://github.com/codehub7/JS-practice/blob/main/promise/debounce.html)
+#### 33. [Argument/Context Binding](https://github.com/codehub7/JS-practice/blob/main/promise/argument-binding.js)
